@@ -1,12 +1,13 @@
 import React from 'react';
-import Todo from './Todo';
-import TodoContextProvider from './TodoContext';
+import Contact from './Contact';
+import ContactContextProvider from './ContactContext';
+
 
 function App() {
   return (
-    <TodoContextProvider>
-      <Todo />
-    </TodoContextProvider>
+    <ContactContextProvider>
+      <Contact />
+    </ContactContextProvider>
   );
 }
 

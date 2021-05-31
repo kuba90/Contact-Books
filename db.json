@@ -1,19 +1,10 @@
 {
-  "todos": [
+  "contacts": [
     {
-      "title": "22ewqewq",
-      "isDone": false,
-      "id": 10
-    },
-    {
-      "title": "Testsasa",
-      "isDone": false,
-      "id": 11
-    },
-    {
-      "title": "Test",
-      "isDone": false,
-      "id": 12
+      "name": "12345678dgdfd",
+      "phone": "4567890",
+      "email": "alimbekovnanargiza@gmail.com",
+      "id": 1
     }
   ]
 }
